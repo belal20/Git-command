@@ -1,0 +1,15 @@
+ssh key add
+-------------
+command:
+
+1. ssh-keygen      => ( set name and passowrd )
+name : enter 
+password : set any password
+
+2. cat path_ir_rsa.pub          // generate public key
+
+3. add key (setting - SSH KEYS - new SSH key).
+
+4. download project -> git clone project_path
+
+
