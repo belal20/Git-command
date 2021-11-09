@@ -1,0 +1,16 @@
+1. git status
+2. git add .
+3. git commit -m ""
+4. git push -u origin master
+
+5. git log
+6. git log --oneline
+
+7. git checkout commit_id
+8. git diff
+
+9.   git rm file_name
+10. git reset HEAD file_name
+
+
+
